@@ -5,6 +5,7 @@
     <title></title>
   </head>
   <body>
-bla
+  Call +91 70785 00888 to order chakki fresh aata.
+  -Javed , Faisal
   </body>
 </html>
